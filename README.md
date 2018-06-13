@@ -1,4 +1,8 @@
-### This repo contains the code of some kaggle competition solutions
+### This repo contains some public code kaggle competition solutions
+
+The purpose of this repo is to learn from the top playes in data science. Personally, I learnt a lot about ensemble techniques
+from their discussion threads and the public code. Also HSE of Russia has opend a specialization of courses about machine learning
+and data science competition on Coursera. 
 
 Currently, it ~~only~~ contains the ~~solution~~ solutions for the google speech recognition challenge from Heng CherKeng, 
 You can have a look at their discussions on (Kaggle)[https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/)
