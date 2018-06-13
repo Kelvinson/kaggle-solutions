@@ -1,2 +1,0 @@
-# This repo contains the code from the winner team Heng CherKeng on the kaggle challenge "TensorFlow Speech Recognition Challenge". So thanks to Heng CherKeng and his teammates.
-You can have a look at their discussions on (Kaggle)[https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/). Please tell me to delete the repo if it has violated your Intellectual Property. Thanks!
