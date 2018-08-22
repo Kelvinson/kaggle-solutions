@@ -1,3 +1,4 @@
+**Note** Since Kaggle user [@SRK](https://www.kaggle.com/sudalairajkumar/) has collected all the winning solutions and posted on this [thread](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions) already. I decide to archive the repository. Thanks to SRK!
 ### This repo contains some public code kaggle competition solutions
 
 The purpose of this repo is to learn from the top playes in data science. Personally, I learnt a lot about ensemble techniques
